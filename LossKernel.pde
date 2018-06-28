@@ -38,9 +38,6 @@ public class Kernal
   
 }
 
-PImage Grey(PImage img)
-{
-
 void setup()
 {
   PImage p = loadImage("LOSS.jpg");
